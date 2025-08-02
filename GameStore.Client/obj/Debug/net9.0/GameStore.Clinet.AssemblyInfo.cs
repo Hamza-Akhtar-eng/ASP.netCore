@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameStore.Clinet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bd7bbb29c1ebc0a2f0f700eb7b4dd13ff889be0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameStore.Clinet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameStore.Clinet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

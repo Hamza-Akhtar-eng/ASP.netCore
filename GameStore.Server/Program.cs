@@ -28,7 +28,14 @@ List<Game> games = new()
         }
     };
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddCors(options => options.AddDefaultPolicy(builder =>
+{
+    builder.WithOrigins("http://localhost:5259").AllowAnyHeader().AllowAnyMethod();
+}));
+
 var app = builder.Build();
+//use the cors policy for every new request 
+app.UseCors();
 //Route Groups
 var group = app.MapGroup("/games").WithParameterValidation();
 

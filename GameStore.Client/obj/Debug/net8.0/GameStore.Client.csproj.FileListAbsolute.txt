@@ -1032,6 +1032,6 @@ C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\GameSto
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\refint\GameStore.Client.dll
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\GameStore.Client.pdb
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\ref\GameStore.Client.dll
-C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\b8h1xyx1yn-6tyk6itdsz.gz
-C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\9uwnzgywwf-l91k0d4cqa.gz
-C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\3xp1e0fvao-put6lnh67s.gz
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\b8h1xyx1yn-qpx12jmmvt.gz
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\9uwnzgywwf-qc86l9amlh.gz
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\3xp1e0fvao-aieacmxwxd.gz

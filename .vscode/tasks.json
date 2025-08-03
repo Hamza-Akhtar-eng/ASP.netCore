@@ -9,7 +9,7 @@
                 "build",
                 "${workspaceFolder}/build.proj",
                 "/property:GenerateFullPaths=true",
-                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+                "/consoleloggerparameters:NoSummary"
             ],
             "problemMatcher": "$msCompile"
         },
@@ -19,9 +19,9 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/ASP.netCore Project.sln",
+                "${workspaceFolder}/GameStore.Server/GameStore.Server.csproj",
                 "/property:GenerateFullPaths=true",
-                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+                "/consoleloggerparameters:NoSummary"
             ],
             "problemMatcher": "$msCompile"
         },
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/ASP.netCore Project.sln"
+                "${workspaceFolder}/GameStore.Server/GameStore.Server.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

@@ -26,3 +26,9 @@ C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Server\obj\Debug\net8.0\refint\
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Server\obj\Debug\net8.0\GameStore.Server.pdb
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Server\obj\Debug\net8.0\GameStore.Server.genruntimeconfig.cache
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Server\obj\Debug\net8.0\ref\GameStore.Server.dll
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Server\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Server\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Server\obj\Debug\net8.0\GameStore.Server.csproj.AssemblyReference.cache
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Server\obj\Debug\net8.0\GameStore.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Server\obj\Debug\net8.0\GameStor.D3E5302D.Up2Date

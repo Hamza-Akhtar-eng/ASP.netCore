@@ -1,0 +1,30 @@
+@baseUrl=http://localhost:5026
+Get {{baseUrl}}/games
+
+###
+Get {{baseUrl}}/games/4
+
+###
+POST {{baseUrl}}/games
+Content-Type: application/json
+
+{
+"name": "",
+  "genre": "Kids and Family",
+  "price": 25000,
+  "releaseDate": "2006-11-21"
+}
+
+###
+PUT {{baseUrl}}/games/5
+Content-Type: application/json
+
+{
+    "name": "FIFA 25",
+    "genre": "Friends",
+    "price": 99.99,
+    "releaseDate": "2025-03-21"
+}
+
+###
+DELETE {{baseUrl}}/games/3

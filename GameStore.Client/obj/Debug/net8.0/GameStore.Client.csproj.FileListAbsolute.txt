@@ -1023,9 +1023,6 @@ C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compres
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\wgcf9cludm-tptq2av103.gz
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\f6ohmtuan6-lfu7j35m59.gz
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\np79cwoqkk-oyz0vx2fzb.gz
-C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\b8h1xyx1yn-rj2mik7xdo.gz
-C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\9uwnzgywwf-gb36a39bt7.gz
-C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\3xp1e0fvao-1ispm7gmrv.gz
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\staticwebassets.development.json
@@ -1035,3 +1032,6 @@ C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\GameSto
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\refint\GameStore.Client.dll
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\GameStore.Client.pdb
 C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\ref\GameStore.Client.dll
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\b8h1xyx1yn-6tyk6itdsz.gz
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\9uwnzgywwf-l91k0d4cqa.gz
+C:\Users\fabir\Desktop\UNI\ASP.netCore\GameStore.Client\obj\Debug\net8.0\compressed\3xp1e0fvao-put6lnh67s.gz

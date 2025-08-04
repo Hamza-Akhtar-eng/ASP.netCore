@@ -9,9 +9,9 @@ POST {{baseUrl}}/games
 Content-Type: application/json
 
 {
-"name": "",
+"name": "WarCraft",
   "genre": "Kids and Family",
-  "price": 25000,
+  "price": 25,
   "releaseDate": "2006-11-21"
 }
 
